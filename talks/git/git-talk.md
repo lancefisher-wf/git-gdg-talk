@@ -14,13 +14,14 @@
 
 ## Today's Goals
 
-> * Cover the life cycle of a logical change in git
+> * Cover the life cycle of a logical change in got
 > * Wow, I am a terrible speller...
-> * Lets fix my mistake
+> * Lets fix my mistakes
 
-## Oh look, I anticipated this!
-I will use this tangible error to illustrate all the steps to effectively commit
-changes and distribute them with git.
+## Sample Lifecycle
+
+This simple error will allow me to demonstrate the use git in a collabortive
+strategy.
 
 # Commits
 
@@ -65,19 +66,13 @@ A branch is a meta object that maps a common name to a particular commit.
 * HEAD tells git what the most current commit is
 * A branch allows you to update head and change your current working commit
 
-## 
+--------------------------------
 
 ![Concurrent History][3]
 
-## My spelling problems
-
-* Lets fix my spelling issues by creating a *feature branch*
-* This is a logical grouping of commits that solves a particular problem
-* `git branch spelling_errors`
-* `git checkout spelling_errors`
-
 ## Feature Branches
 
+* A logical collection of commits
 * Allows me to work independently of the status of the **master** branch
 * I can switch from this feature to another or the **master** branch at any time
 * If I find my effort is pointless, I can remove this branch without consequence
