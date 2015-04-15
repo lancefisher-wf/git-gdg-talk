@@ -118,9 +118,9 @@ feature branch in a request to merge.
 * `git push --set-upstream origin spelling_errors`
 * Github's tooling notices my new branch and prompts for a PR request
 
-##
+--------------------------------
 
-![Remotes][3]
+![Remotes][4]
 
 ## Review and Merging
 
