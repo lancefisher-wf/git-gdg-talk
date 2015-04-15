@@ -39,15 +39,9 @@ strategy.
 * Since commits point to their parents...
 * A linear history is established
 
-## 
+--------------------------------
 
 ![Linear History][2]
-
-## Linear Commands
-
-* `git log`
-* `git commit`
-* *etc*
 
 # Branches
 
@@ -82,6 +76,13 @@ A branch is a meta object that maps a common name to a particular commit.
 * I can correct my spelling issues
 * Add them to the stage
 * And commit them to the repository
+
+## My spelling problems
+
+* Lets fix my spelling issues by creating a *feature branch*
+* This is a logical grouping of commits that solves a particular problem
+* `git branch spelling_errors`
+* `git checkout spelling_errors`
 
 # Remotes
 
