@@ -40,4 +40,4 @@ local directory.
 `python -m SimpleHTTPServer`
 
 #### Python3
-`python -m http.server
+`python -m http.server`
