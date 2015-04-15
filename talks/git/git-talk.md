@@ -152,6 +152,6 @@ example of how to interact with the repository and submit changes.
 ## Questions?
  
 [1]: imgs/benjic_git_history.png
-[2]: imgs/linear_history.png
-[3]: imgs/concurrent_history.png
-[4]: imgs/remote_history.png
+[2]: imgs/linear_history.svg
+[3]: imgs/concurrent_history.svg
+[4]: imgs/remote_history.svg
