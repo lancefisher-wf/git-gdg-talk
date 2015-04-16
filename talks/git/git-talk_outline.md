@@ -1,6 +1,3 @@
-% Git Talk
-% April 16 2015 
-
 # Outline
 * Goals
     * Provide abstraction for language and concepts
