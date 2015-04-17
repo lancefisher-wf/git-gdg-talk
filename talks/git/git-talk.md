@@ -14,7 +14,7 @@
 
 ## Today's Goals
 
-> * Cover the life cycle of a logical change in got
+> * Cover the life cycle of a logical change in git
 > * Wow, I am a terrible speller...
 > * Lets fix my mistakes
 
