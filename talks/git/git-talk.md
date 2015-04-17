@@ -120,7 +120,7 @@ feature branch in a request to merge.
 
 ## Review and Merging
 
-* Another team mate reviews your changes and vets your attempt
+* Another teammate reviews your changes and vets your attempt
 * When agree once is made, Github allows merging into the target branch
 * An authoritative member of the team merges the new feature branch 
 
