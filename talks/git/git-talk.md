@@ -1,4 +1,4 @@
-% Got* Talk
+% Git* Talk
 % Missoula GDG
 % April 16 2015
 
@@ -6,7 +6,7 @@
 
 ## My name is Ben
 
-![Using got for over 6 years][1]
+![Using git for over 6 years][1]
 
 * Intern at Workiva
 * Student at U of M
